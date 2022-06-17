@@ -5,7 +5,7 @@ description: Essays that I have written.
 
 {% section .hero %}
 # Essays 
-This is the essays page
+No long form essays right now. I aim to publish some essays between 1000 and 10000 words.
 
 ## View some other pages
 
