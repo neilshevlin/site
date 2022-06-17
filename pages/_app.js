@@ -22,15 +22,9 @@ import 'codemirror/lib/codemirror.css';
 
 import '../public/globals.css';
 
-const TITLE = 'Akatosh';
-const DESCRIPTION = 'Quickly access geoscience data from around the world.';
-const AKATOSH = `
+const TITLE = 'Neil Shevlin';
+const DESCRIPTION = 'Neil Shevlins personal site';
 
-_______ _     _ _______ _______  _____  _______ _     _
-|_____| |____/  |_____|    |    |     | |______ |_____|
-|     | |    \\_ |     |    |    |_____| ______| |     |
-                                                       
-`;
 
 const FONTS_BASE_URL = process.env.NEXT_PUBLIC_FONTS_BASE_URL || '/fonts';
 
@@ -95,7 +89,6 @@ export default function MyApp(props) {
   const isDocs = props.router.asPath.startsWith('/docs');
   const isLandingPage = props.router.pathname === '/';
 
-  React.useEffect(() => console.log(AKATOSH), []);
   useGoogleAnalytics();
 
   return (
@@ -167,11 +160,11 @@ export default function MyApp(props) {
         Skip to content
       </a>
       <TopNav>
-        <Link href="/books">Books</Link>
+        <Link href="/snippets">Drafts</Link>
         <Link href="/essays">Essays</Link>
+        <Link href="/current">Current Interests</Link>
+        <Link href="/books">Book Notes</Link>
         <Link href="/contact">Contact</Link>
-        <Link href="/current">Current</Link>
-        <Link href="/snippets">Snippets</Link>
       </TopNav>
       <div className="page">
         {isDocs ? <SideNav /> : null}
