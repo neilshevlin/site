@@ -160,11 +160,12 @@ export default function MyApp(props) {
         Skip to content
       </a>
       <TopNav>
-        <Link href="/snippets">Drafts</Link>
+        <Link href="/drafts">Drafts</Link>
         <Link href="/essays">Essays</Link>
-        <Link href="/current">Current Interests</Link>
+        <Link href="/interests">Current Interests</Link>
         <Link href="/books">Book Notes</Link>
         <Link href="/contact">Contact</Link>
+        <Link href="/influences">Influences</Link>
       </TopNav>
       <div className="page">
         {isDocs ? <SideNav /> : null}
