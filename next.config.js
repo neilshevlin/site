@@ -1,7 +1,8 @@
 const withMarkdoc = require('@markdoc/next.js');
 
+console.log
 // withMarkdoc can be passed options for schema and modes
-module.exports = withMarkdoc({schemaPath: '/Users/neilshevlin/Desktop/Software/personal-site/markdoc'})({
+module.exports = withMarkdoc({schemaPath: 'markdoc'})({
   reactStrictMode: true,
   pageExtensions: ['js', 'md', 'mdoc'],
   i18n: {
