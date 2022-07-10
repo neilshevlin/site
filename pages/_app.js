@@ -162,8 +162,7 @@ export default function MyApp(props) {
       <TopNav>
         <Link href="/drafts">Drafts</Link>
         <Link href="/essays">Essays</Link>
-        <Link href="/interests">Current Interests</Link>
-        <Link href="/books">Book Notes</Link>
+        <Link href="/notes">Index Notes</Link>
         <Link href="/contact">Contact</Link>
         <Link href="/influences">Influences</Link>
       </TopNav>
