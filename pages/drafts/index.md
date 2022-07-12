@@ -12,13 +12,13 @@ Short writings. Not rigourous pieces of writing. Intended more for the expressio
 - [Historcal success within the Catholic heirarchy](/drafts/catholic-heirarchy)
 - [The Transhumanist ethic and the spirit of accelerationism](/drafts/transhumanist-ethic)
 - [Reject the alienarchy](/drafts/alienarchy)
-- [The point spread function](/drafts/point-spread-function)
+- [The point spread function](/drafts/pointspread)
 - [Leibniz Principle of best](/drafts/principle-of-best)
-- [Synthetic magnetics](/drafts/synthetic-magnetics)
+- [Synthetic magnetics](/drafts/synth-mag)
 - [Arvo Part](/drafts/arvo-part)
-- [Stimulants and creativity](/drafts/stimulants-and-creativity)
+- [Stimulants and creativity](/drafts/stimulants-creativity)
 - [Ideas for this site](/drafts/site-ideas)
-- [Draft drafts](/drafts/draftdrafts)
+- [Ideas for essays](/drafts/ideas)
 ## View some other pages
 
 - [Books](/books)
