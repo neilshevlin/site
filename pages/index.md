@@ -6,7 +6,38 @@ description: The entry page for the site
 {% section .hero %}
 
 # Welcome to another assortment of symbols.
-*The purpose of this site is in a state of flux. While there are good reasons to have a personal site on the internet, I have no definite and singular reason for making this site. As such the contents and structure of this site will likely change somewhat over time. That being said, It's my intention as the site's author to respect some general principles in the design of a webpage that were put forward by early internet pioneers. Some of these principles include a general continuity and consistency of internet sites over time. Where a URI will exist across time. As this site at this url has had different iterations over time, it is a goal of mine to keep some consistency across time. In a more abstract sense, the site should show some continuity across internet culture. That is it will take inspiration from several other internet pioneers. More of this is explained in [site philosophy](meta/site-philosophy)*
+*The purpose of this site is in a state of flux. While there are good reasons to have a personal site on the internet, I have no definite and singular reason for making this site. As such the contents and structure of this site will likely change somewhat over time. That being said, It's my intention as the site's author to respect some general principles in the design of a webpage that were put forward by early internet pioneers. Some of these principles include a general continuity and consistency of internet sites over time. Where a URI will exist across time. As this site at this url has had different iterations over time, it is a goal of mine to keep some consistency across time. In a more abstract sense, the site should show some continuity across internet culture. That is it will take inspiration from several other internet pioneers.*
+## Site Contents
+Below is a collection of some of the subsections of this site and the types of content that's available.
+ 
+[Drafts](/drafts){%  .h3  %}
+
+Drafts are things that range from an essay idea, to a nearly completed essay. Part of the process I take when writing is to start with an essay title, sub-title, a table of content and an introduction. Then as I continue research, expand ideas, and write more the essay takes shape. The introduction, table of contents and titles then ideally should change and evolve over the course of the essay. The drafts are seperate from index notes, but will often be comprised of them. Some examples are: 
+- [Endocrine disruptors](drafts/endo-disruptors.md)
+- [The spirit of accelerationism and the transhumanist ethic](drafts/transhumanist-ethic.md)
+- [The point spread function](drafts/pointspread.md)
+ 
+[Essays](/essays){%  .h3  %}
+
+Drafts with a certain level of pollish.
+
+[Index Notes](/notes){%  .h3  %}
+
+I have a system like index cards derived from the one proposed by Umberto Eco in his book [How to write a thesis](/notes/books/COUlEuCc). The index card system is adapted to this site and the internet.
+> "Remember that an index card file is an investment that you make during your thesis, but if you intend to keep studying, it will pay off years—and sometimes decades—later." - Eco
+
+Notes are used for my own research and use. Hopefully will they be of some use to others aswell. Some examples:
+
+- [How to write a thesis](/notes/books/COUlEuCc)
+
+
+[Contact](/contact){%  .h3  %}
+
+How to contact me. 
+
+[Influences](/influences){%  .h3  %}
+
+Some of the people, places and things that have influenced me and my thinking. Perhaps useful in understanding why I think the way I do.
 
 ## Software used to create this site
 While perhaps not a wise decision in the long term, this site is built with [React]("https://reactjs.org/") and [Next.js](https://nextjs.org/). The site also makes use of markdown and specifically [Markdoc](https://markdoc.org/). I typically use [Notion](https://www.notion.so) or [Obsidian](https://obsidian.md/) to write my notes. The advantage of this method is that both allow exports to markdown. I have a script to push these markdown files notion/obsidian to the git repository and then push them to my [Gitlab](https://gitlab.com/) account. Here they run through a quick pipeline to deploy and then to the live site.
@@ -15,30 +46,29 @@ I believe this approach is optimal. Markdown as a text standard has stood the te
  
 Here is an example of a markdown file I may write and the content it produces:
 {% side-by-side %}
+{% markdoc-example %}
+````
+### A header
+I hope that you are having a **pleasant** day.
+Have you seen any of these items?
+- Green
+- Eggs
+- Ham
 
-
-```js
-{
-    "title": "Contact",
-}
+```python
+from hat import green, eggs, ham
 ```
+````
+{% /markdoc-example %}
+### A header
+
+I hope that you are having a **pleasant** day. Have you seen any of these items?
+- Green
+- Eggs
+- Ham
+```py
+from hat import green, eggs, ham
+```
+
 {% /side-by-side %}
-## Site philosophy
-There's a blend of a few things here and I'll try to connect each part of the site up to form a coherent philosophy of a website.
- 
-### Drafts
-In the drafts section you'll find some ideas that are taking shape, but that are incomplete. These are typically interests that I've taken at some point in time for whatever reason. They will have different levels of depth or exploration. In essence they are proto essays. The reason for proto essaying in this way is to show the progression of thought. This is visible through the commit history of the site which is open source and available [here](https://gitlab.com). Drafts are also separate from index notes but they are often composed and will reference index notes.
- 
-### Essays
-More obvious and familiar of an idea. These are ideas that I believe have sufficient rigour to be taken at least semi seriously.
-
-### Index Notes
-Index cards are a system of record when reading, learning, or writing about some topic. As they are on this site, it is heavily influenced by the note taking system as shown in [How to write a thesis](https://example.com) By Umberto Eco. I've decided to try and mould the original idea of the index card in Eco's mind, into something fitting with a broader philosophy of the internet, epistemology and the sites philosophy. "Remember that an index card file is an investment that you make during your thesis, but if you intend to keep studying, it will pay off years—and sometimes decades—later." - Eco. In my opinion there is a societal jump to universality through the open access to notes. I will use my notes for my own research and thinking. But they should, in keeping with the early pioneers of the internet, be open, accessible, and available throughout time.
-
-### Contact
-How to contact me. 
-
-### Influences
-This is a take on a simple about page. It is a collection of things which I believe have influenced me. Here there are the things that influence me, and how they influence me. My thinking here is that a person is heavily influenced by many things over the duration of their life. These things impact how they think, what they do, and who they are. I am not sure whether they are everything that we are. I'm hoping that this section will help you get an understanding of me, and hopefully why I think the way I think or do the things I do. 
-
 {% /section %}
