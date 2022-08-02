@@ -15,6 +15,8 @@ A selection of different types of notes. They are broken down in to:
 
 [Papers](/notes/papers){%  .h2 %}
 
+[Other Stuff](/notes/other){%  .h2 %}
+
 ## View some other pages
 
 - [Books](/books)
