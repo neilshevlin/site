@@ -9,7 +9,7 @@ There seems to be varying ability across the population in their ability to util
 
 Some notes on books that I've read. I've these books with varying degrees of speed, information retention and enjoyment. The notes on books will be marked with some information about my interaction with the book.
 
-### Book notes tags
+## Book notes tags
 {% code %}Incomplete{% /code %} - I haven't finished the book.
 
 {% code %}Complete{% /code %} - I have finished the book.
@@ -26,10 +26,23 @@ Some notes on books that I've read. I've these books with varying degrees of spe
 
 {% code %}Audio version{% /code %} - I listened to the book in it's audio version.
 
+## Book List
+
 [How to write a thesis - Umberto Eco](/notes/books/COUlEuCc){% .h2 %}
 
 {% code %}Complete{% /code %} {% code %}Focused Read{% /code %} {% code %}High Retention{% /code %}
 
+[Designing Data-Intensive Applications - Martin Kleppmann](/notes/books/COVr0LaI){% .h2 %}
+
+{% code %}Complete{% /code %} {% code %}Focused Read{% /code %} {% code %}High Retention{% /code %}
+
+[Pattern Classification - Richard O.Duda](/notes/books/COUxgMky){% .h2 %}
+
+{% code %}Incomplete{% /code %} {% code %}Focused Read{% /code %} {% code %}Low Retention{% /code %}
+
+[Thinking fast and slow - Daniel Kahneman](/notes/books/COUrvAYv){% .h2 %}
+
+{% code %}Incomplete{% /code %} {% code %}Focused Read{% /code %} {% code %}High Retention{% /code %}
 
 [Introduction to mineral exploration - Charles J Moon](/notes/books/COVpLVtX){% .h2 %}
 

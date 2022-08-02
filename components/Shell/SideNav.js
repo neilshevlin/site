@@ -4,36 +4,42 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Get started',
+    title: 'Drafts',
     links: [
-      { href: '/docs/about', children: 'About Akatosh' },
-      { href: '/docs/quick-start', children: 'Quick Start' },
+      { href: '/drafts/endo-disruptors', children: 'Endocrine Disruptors' },
+      { href: '/drafts/gpx-ilmenite', children: 'Geophysical exploration of ilmenite' },
+      { href: '/drafts/transhumanist-ethic', children: 'The Transhumanist ethic and the spirit of accelerationism' },
+      { href: '/drafts', children: 'Full list' },
+
     ]
   },
   {
-    title: 'Spatial Queries',
+    title: 'Essays',
     links: [
-      { href: '/docs/tenements', children: 'Tenements' },
-      { href: '/docs/areas-of-interest', children: 'Areas of interest' },
+      { href: '/essays', children: 'Index' },
     ]
   },
   {
-    title: 'Geophysical data',
+    title: 'Index Notes',
     links: [
-      { href: '/docs/gravity', children: 'Gravity' },
-      { href: '/docs/magnetics', children: 'Magnetics' },
-      { href: '/docs/radiometrics', children: 'Radiometrics' },
-      { href: '/docs/electromagnetics', children: 'Electromagentics' },
-      { href: '/docs/seismic', children: 'Seismic' }
+      { href: '/notes', children: 'Index' },
+      { href: '/notes/books', children: 'Books' },
+      { href: '/notes/Authors', children: 'Authors' },
+      { href: '/notes/ideas', children: 'Ideas' },
+      { href: '/notes/papers', children: 'Papers' },
+      
     ]
   },
   {
-    title: 'Data access',
+    title: 'Contact',
     links: [
-      { href: '/docs/bulk-downloads', children: 'Bulk downloads' },
-      { href: '/docs/data-sharing', children: 'Data sharing' },
-      { href: '/docs/tendering', children: 'Tendering data' },
-      { href: '/docs/shop-and-download', children: 'Shop & download' }
+      { href: '/contact', children: 'Index' },
+    ]
+  },
+  {
+    title: 'Influences',
+    links: [
+      { href: '/influences', children: 'Index' },
     ]
   }
 ];

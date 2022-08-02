@@ -86,7 +86,9 @@ export default function MyApp(props) {
     ? collectHeadings(pageProps.markdoc.content)
     : [];
 
-  const isDocs = props.router.asPath.startsWith('/docs');
+  // const isDocs = props.router.asPath.startsWith('/notes');
+  // Is docs covers router pages starting with multiple different starters
+  const isDocs = props.router.asPath.startsWith('/notes') || props.router.asPath.startsWith('/drafts') || props.router.asPath.startsWith('/essays') || props.router.asPath.startsWith('/influences') || props.router.asPath.startsWith('/contact');
   const isLandingPage = props.router.pathname === '/';
 
   useGoogleAnalytics();
