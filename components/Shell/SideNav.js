@@ -6,9 +6,8 @@ const items = [
   {
     title: 'Drafts',
     links: [
-      { href: '/drafts/endo-disruptors', children: 'Endocrine Disruptors' },
+      { href: '/drafts/site-philosophy', children: 'Site Philosophy' },
       { href: '/drafts/gpx-ilmenite', children: 'Geophysical exploration of ilmenite' },
-      { href: '/drafts/transhumanist-ethic', children: 'The Transhumanist ethic and the spirit of accelerationism' },
       { href: '/drafts', children: 'Full list' },
 
     ]

@@ -1,10 +1,10 @@
 ---
-title: Transhumanist Ethics and the spirit of accelerationism
+title: The transhumanist ethic and the spirit of accelerationism
 description: A draft piece of writing called Transhumanist Ethics and the spirit of accelerationism
 ---
 
 {% section .hero %}
-# Transhumanist Ethics and the spirit of accelerationism
+# The transhumanist ethic and the spirit of accelerationism
 ## Contents
 1. [Introduction](#introduction)
 2. [Ideological affiliation and social stratification](#affiliation)
