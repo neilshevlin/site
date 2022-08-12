@@ -12,10 +12,7 @@ Below is a collection of some of the subsections of this site and the types of c
  
 [Drafts](/drafts){%  .h3  %}
 
-Drafts are things that range from an essay idea, to a nearly completed essay. Part of the process I take when writing is to start with an essay title, sub-title, a table of content and an introduction. Then as I continue research, expand ideas, and write more the essay takes shape. The introduction, table of contents and titles then ideally should change and evolve over the course of the essay. The drafts are seperate from index notes, but will often be comprised of them. Some examples are: 
-- [Endocrine disruptors](drafts/endo-disruptors.md)
-- [The spirit of accelerationism and the transhumanist ethic](drafts/transhumanist-ethic.md)
-- [The point spread function](drafts/pointspread.md)
+Drafts are things that range from an essay idea, to a nearly completed essay. Part of the process I take when writing is to start with an essay title, sub-title, a table of content and an introduction. Then as I continue research, expand ideas, and write more the essay takes shape. The introduction, table of contents and titles then ideally should change and evolve over the course of the essay. The drafts are seperate from index notes, but will often be comprised of them.
  
 [Essays](/essays){%  .h3  %}
 
