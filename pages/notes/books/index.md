@@ -86,11 +86,5 @@ def b64_isbn(isbn):
     return b64_isbn
 b64_isbn(9780385514590)
 ```
-
-## View some other pages
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
-- [Snippets](/snippets)
 {% /section %}
 

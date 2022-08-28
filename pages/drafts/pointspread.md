@@ -9,10 +9,4 @@ A review and summary of the point spread function
 ## Contents
 
 
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}

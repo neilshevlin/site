@@ -53,10 +53,4 @@ description: Notes on the book Pattern Classification by Richard O.Duda
 
 What is computational complexity? If given some image, we could make sure that all the possible combinations are covered. However even for a 20x20 binary pixel image we owould be dealing with 10^120 different combinations. It becomes impractical to be able to classify these manually.
 
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}

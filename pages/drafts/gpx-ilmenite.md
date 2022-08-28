@@ -53,12 +53,4 @@ Geophysical exploration exploits anamolous disturbances in fields to locate area
 ### Further study
 
 ### Areas for improvement
-
-
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}

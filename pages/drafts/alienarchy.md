@@ -9,11 +9,4 @@ A argument against believing in aliens and teh consequences of living in a unviv
 ## Contents
 1. [Introduction](#introduction)
 2. [Conclusion](#conclusion)
-
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}

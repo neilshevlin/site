@@ -7,10 +7,4 @@ description: Notes on Influences
 # Influences 
 Notes on Influences
 
-## View some other pages
-
-- [Books](/books)
-- [Contact](/contact)
-- [Current](/current)
-- [Snippets](/snippets)
 {% /section %}

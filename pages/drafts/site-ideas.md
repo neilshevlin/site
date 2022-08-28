@@ -22,10 +22,4 @@ description: Some ideas for this site, how to improve it and add to it.
 - Documentation styling. What are some of the essential stylings of documentation? Gwern's wiki style site is unique and also highly functional in that it's familiar and very useful. 
     - The wikipedia style is it's own standard in a way. It is there to convey a specific type of information. You can have technical docs in a wikipedia page, 
 
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}

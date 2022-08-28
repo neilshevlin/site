@@ -13,10 +13,6 @@ Below is a collection of some of the subsections of this site and the types of c
 [Drafts](/drafts){%  .h3  %}
 
 Drafts are things that range from an essay idea, to a nearly completed essay. Part of the process I take when writing is to start with an essay title, sub-title, a table of content and an introduction. Then as I continue research, expand ideas, and write more the essay takes shape. The introduction, table of contents and titles then ideally should change and evolve over the course of the essay. The drafts are seperate from index notes, but will often be comprised of them.
- 
-[Essays](/essays){%  .h3  %}
-
-Drafts with a certain level of pollish.
 
 [Index Notes](/notes){%  .h3  %}
 
@@ -27,17 +23,8 @@ Notes are used for my own research and use. Hopefully will they be of some use t
 
 - [How to write a thesis](/notes/books/COUlEuCc)
 
-
-[Contact](/contact){%  .h3  %}
-
-How to contact me. 
-
-[Influences](/influences){%  .h3  %}
-
-Some of the people, places and things that have influenced me and my thinking. Perhaps useful in understanding why I think the way I do.
-
 ## Software used to create this site
-While perhaps not a wise decision in the long term, this site is built with [React]("https://reactjs.org/") and [Next.js](https://nextjs.org/). The site also makes use of markdown and specifically [Markdoc](https://markdoc.org/). I typically use [Notion](https://www.notion.so) or [Obsidian](https://obsidian.md/) to write my notes. The advantage of this method is that both allow exports to markdown. I have a script to push these markdown files notion/obsidian to the git repository and then push them to my [Gitlab](https://gitlab.com/) account. Here they run through a quick pipeline to deploy and then to the live site.
+While perhaps not a wise decision in the long term, this site is built with [React](https://reactjs.org) and [Next.js](https://nextjs.org/). The site also makes use of markdown and specifically [Markdoc](https://markdoc.io). I typically use [Notion](https://www.notion.so) or [Obsidian](https://obsidian.md/) to write my notes. The advantage of this method is that both allow exports to markdown. I have a script to push these markdown files notion/obsidian to the git repository and then push them to my [Gitlab](https://gitlab.com/) account. Here they run through a quick pipeline to deploy and then to the live site.
  
 I believe this approach is optimal. Markdown as a text standard has stood the test of time and is very feature rich. In the event that I have to or wish to change the site, I will be left with markdown files that can be parsed into whatever new format is required.
  

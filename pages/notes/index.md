@@ -17,11 +17,4 @@ A selection of different types of notes. They are broken down in to:
 
 [Other Stuff](/notes/other){%  .h2 %}
 
-## View some other pages
-
-- [Books](/books)
-- [Contact](/contact)
-- [Current](/current)
-- [Snippets](/snippets)
 {% /section %}
-

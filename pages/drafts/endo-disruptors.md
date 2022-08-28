@@ -28,13 +28,4 @@ A study of modern consumer goods and the potential for the disruption of the end
 ## Data findings
 
 ## Conclusion
-
-
-
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}

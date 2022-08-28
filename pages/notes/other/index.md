@@ -35,10 +35,4 @@ A splattering of articles and readings.
 [A Data Plan for Fish | Hakai Magazine](https://www.hakaimagazine.com/news/data-plan-fish/)
 
 [Argentina Gains New Tools in Fight Against Foreign Fishing Fleets | Hakai Magazine](https://www.hakaimagazine.com/news/argentina-gains-new-tools-in-fight-against-foreign-fishing-fleets/)
-## View some other pages
-
-- [Books](/books)
-- [Contact](/contact)
-- [Current](/current)
-- [Snippets](/snippets)
 {% /section %}

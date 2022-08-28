@@ -215,10 +215,4 @@ Being able to make change easy
 System requirments will change very often
 
 Things such as AGILE and test driven development are all useful tools for prodcuing software in uncertain circumstances
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}

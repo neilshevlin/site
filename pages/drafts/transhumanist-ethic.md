@@ -31,10 +31,4 @@ description: A draft piece of writing called Transhumanist Ethics and the spirit
 
 ## Conclusion
 
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}

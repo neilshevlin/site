@@ -31,10 +31,4 @@ Finally, the larger purpose of this site is to try and do my part in seeking Tru
 
 Enjoy.
 
-## View some other pages 
-
-- [Books](/books)
-- [Essays](/essays)
-- [Current](/current)
-- [Snippets](/snippets)
 {% /section %}

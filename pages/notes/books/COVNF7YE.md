@@ -10,10 +10,4 @@ For a short period in my life I was a numerary member[^1] of [Opus Dei](https://
 #### Footnotes
 [^1]: Technically speaking, I was a baby numerary member of Opus Dei. You are more technically a part time member of Opus Dei when you do your 'oblation', which I never did. So it could be said that I was never a member of Opus Dei, which would be correct. But for simplicity, I just say I was a member.
 
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}
