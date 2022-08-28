@@ -31,3 +31,4 @@ Finally, the larger purpose of this site is to try and do my part in seeking Tru
 
 Enjoy.
 
+{% /section %}

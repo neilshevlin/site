@@ -15,3 +15,4 @@ description:  A list of ideas that may be considered as ideas for drafts/essays
 - Experiences of stimulants and their effects on creativity
 - The transhumanist ethic and the spirit of accelerationism
 - Maximisiing shareholder knowledge
+{% /section %}
