@@ -43,10 +43,4 @@ description: Notes on the book Thinking fast and slow by Daniel Kahneman
 - Also some references made to the idea that focussing on a task, can improve intelligence in children. → Does this translate to adults?
 - Some final examples on people who say or do things without checking to see if they're correct, or the right thing to do.
 - "Blurting out the first thing that comes to your mind" → Lazy system 2.
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}

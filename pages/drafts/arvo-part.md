@@ -10,10 +10,3 @@ A review and summary of Arvo Pärt's work.
 1. [Introduction](#introduction)
 2. [Conclusion](#conclusion)
 
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
-{% /section %}

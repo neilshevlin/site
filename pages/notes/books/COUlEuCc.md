@@ -196,11 +196,4 @@ On a first search I recieve a research starter with a bibliography which contain
 From here we might have to look at further information on each book to gather whether the item is relevant. I can begin to start adding these books to a bibliography. Apps such as notion can then easily allow us to start categorizing this bibliography however we like. We may begin with ‘geophysics’ and add our books here. Here I believe is where we can start to leverage some of the beautiful aspects of technology, especiaally Notion. 
 
 How you organise the bibliographies is then up to you. You could start with ‘geophysics’ but later find that the amount of material is too much to understand and gain context from. Notion can allow you to create subsections within pages. You are also free to connect certain pages to other pages. As you begin to grow a bibliography you can create a rich tapestry of books on many different topics. 
-
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}

@@ -735,10 +735,4 @@ SELECT ('1 Day 1 Hour' :: INTERVAL); --adds interval of one day one hour
 SELECT ('3 days'::INTERVAL) - ('1 days'::INTERVAL); --interval is now 2 days
 
 ```
-## View some other pages
-
-- [Books](/books)
-- [Contact](/contact)
-- [Current](/current)
-- [Snippets](/snippets)
 {% /section %}

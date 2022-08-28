@@ -13,12 +13,6 @@ const items = [
     ]
   },
   {
-    title: 'Essays',
-    links: [
-      { href: '/essays', children: 'Index' },
-    ]
-  },
-  {
     title: 'Index Notes',
     links: [
       { href: '/notes', children: 'Index' },
@@ -29,18 +23,6 @@ const items = [
       
     ]
   },
-  {
-    title: 'Contact',
-    links: [
-      { href: '/contact', children: 'Index' },
-    ]
-  },
-  {
-    title: 'Influences',
-    links: [
-      { href: '/influences', children: 'Index' },
-    ]
-  }
 ];
 
 export function SideNav() {

@@ -13,10 +13,4 @@ A study of the success of individuals and their nations within the Catholic heir
 4. [Analysis of the data](#analysis)
 5. [Conclusion](#conclusion)
 
-## View some other pages
-
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
 {% /section %}

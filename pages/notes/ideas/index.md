@@ -77,10 +77,4 @@ description: Notes on Ideas
 - [Computers](/notes/ideas/creativity/computers)
 {% /item %}
 {% /side-by-side %}
-## View some other pages
-
-- [Books](/books)
-- [Contact](/contact)
-- [Current](/current)
-- [Snippets](/snippets)
 {% /section %}

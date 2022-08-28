@@ -7,14 +7,9 @@ description: Short writings
 # Drafts
 Short writings. Not rigourous pieces of writing. Intended more for the expression of ideas
 
-- [Site Philosophy](/influences/site-philosophy)
+- [Site Philosophy](/drafts/site-philosophy)
 - [Geophysical exploration of ilmenite](/drafts/gpx-ilmenite)
 - [Ideas for this site](/drafts/site-ideas)
 - [Ideas for essays](/drafts/ideas)
-## View some other pages
 
-- [Books](/books)
-- [Essays](/essays)
-- [Contact](/contact)
-- [Current](/current)
-{% /section %}
+{% /section  %}
