@@ -7,6 +7,7 @@ description: Short writings
 # Drafts
 Short writings. Not rigourous pieces of writing. Intended more for the expression of ideas
 
+- [Live Now, Pay Later](/drafts/buylater-paynow)
 - [Site Philosophy](/drafts/site-philosophy)
 - [Geophysical exploration of ilmenite](/drafts/gpx-ilmenite)
 - [Ideas for this site](/drafts/site-ideas)

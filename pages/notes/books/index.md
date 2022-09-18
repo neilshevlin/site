@@ -72,6 +72,18 @@ Some notes on books that I've read. I've these books with varying degrees of spe
 
 {% code %}Complete{% /code %} {% code %}Focused Read{% /code %} {% code %}Audio Version{% /code %} {% code %}High Retention{% /code %}
 
+[The Idiot - Fyodor Dostoyevsky](/notes/books/COVxzieb){% .h2 %}
+
+{% code %}Complete{% /code %} {% code %}Focused Read{% /code %} {% code %}Medium Retention{% /code %}
+
+[1984 - George Orwell](/notes/books/COXjQCK3){% .h2 %}
+
+{% code %}Complete{% /code %} {% code %}Focused Read{% /code %} {% code %}Low Retention{% /code %}
+
+[Kant: A very short introduction - Roger Scruton](/notes/books/COUg6vTP){% .h2 %}
+
+{% code %}Incomplete{% /code %} {% code %}Low Retention{% /code %}
+
 ## A note on book note URL's
 The URL for each book note contained here is a base64 encoded url. They are a smaller, base64 representation of the integer(base 10) ISBN 13 number that all books have. As URL's should try their best to be constant and unchanging, and because using the ISBN or the book title was unapealling, I transfered the ISBN to the base 64 numerical system. This gives shorter a slighlty more pleasant url's compared to a ISBN in base 10 or just the title of the book. 
 
