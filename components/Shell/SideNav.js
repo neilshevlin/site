@@ -17,7 +17,7 @@ const items = [
     links: [
       { href: '/notes', children: 'Index' },
       { href: '/notes/books', children: 'Books' },
-      { href: '/notes/Authors', children: 'Authors' },
+      { href: '/notes/authors', children: 'Authors' },
       { href: '/notes/ideas', children: 'Ideas' },
       { href: '/notes/papers', children: 'Papers' },
       
