@@ -1,0 +1,49 @@
+---
+title: Theory and Reality
+description: Philosophy of Science
+---
+
+{% section .hero %}
+
+# Theory and Reality
+
+## Bayesianism and modern theories of evidence
+
+{% latex %}Here is the formula as stated by Bayes $P(h|e) = \frac{P(e|h)P(h)}{P(e)}${% /latex %}
+
+{% latex %}Here it is again but in a philisophical sense $P(h|e) = \frac{P(e|h)P(h)}{P(e|h)P(h)+P(e|\neg h)P(\neg h)}$ {% /latex %}
+
+{% latex %}$P(h|e)$ is the probability of h, given e. Which in this sense is understood to mean the proability of the hypothesis given the event(or evidence).{% /latex %}
+
+Given that we can gind the probability of {% latex %}$P(h|e)${% /latex %} we can then question whether we can confirm the hypothesis. Where {% latex %}$P(h|e) > P(h)${% /latex %} we could say that given the evidence, that updates te posterior probabilityto be greater the prior, we can confirm the hypothesis. In this system proposed by bayesianism, there is teh updating of the priors, in light of new evidence and there is the confirmation of h.
+
+The following evidence is given. You hold a belief that your friend is at a party in a house. You are not around, but you're travelling to the party and before you get there you have a 70% (0.7) confidence that they will be there. We can say {% latex %}$P(h) - 0.7${% /latex %}. You get to the house and you see your friends car. But seeing your friends car does not mean they are there. They could have parked there, went to the party and left by foot. So this is a probability of the car firstly, before the person. What is the proabability that the car is there given they are there {% latex %}$P(e|h)${% /latex %} and the car is there but they are not {% latex %}$P(e|\neg h)${% /latex %}. These do not need to add up to any value. So we can say that {% latex %}$P(e|h) = 0.9${% /latex %} and {% latex %}$P(e|\neg h) = 0.1${% /latex %}. From this, we can compute the probability that your friend is at the party in light of this new evidence. {% latex %}$P(h|e) = \frac{0.9 \cdot 0.7}{(0.9 \cdot 0.7) + (0.1 \cdot 0.3)} = 0.954545$.{% /latex %} So we update our belief that they are at the party.
+
+All of this is assuming that scientific theories are supposed to predict what we will see. Godfrey points out that we have to have a prior probability in order to update the posterior. He follows that there is a need to interpretate bayesian priors in to a system of scientific theories. Which is where the idea of subjectivist intepretations come in. In this system, probabilities are degrees of belief about some hypothesis. This was pioneered by Frank Ramsey and Bruno de Finetti. This approach asks idealised gambling people to reveal their confidence in a belief through staking some money on that event. You want to set up a gambling system so that a person is punished for being wrong. At a 1:1 odds of a belief they will owe $1 for being wrong and for being right. This isnt saying that they think the theory useless. They hold some belief in it occuring. If they set the odds at 1000000:1 then they are saying that they are so confident they are right that they would risk losing a million dollars just to gain 1. But if you have one belief, you may have another, and they may be related. As we consider more and more beliefs, we can start to consider them a network of subjective probabilities. If there is coherency between all of these network of beliefs, then there is rationality according to bayesians.
+
+The fundamanetals of probability theory were developed by Kolmogorov. Kolmogorov had to create a proof for probability theory, which was before then a system of empirical observations (such as the law of large numbers). No Proofs had been given before then. Subjectivist bayesians use the following 4 axioms according to Godfrey:
+1. All probabilities are between 0 and 1
+2. If a proposotion is true(tautology), then the probability of it being true is 1
+3. {% latex %}If $h$ and $h'$ are exclusive alternatives(cannot both be true) then $P(h \lor h') =P(h)+P(h') $ {% /latex %}
+4. {% latex %}$P(h|j) = \frac{P(h \land j)}{P(j)}$ provided that $P(j) > 0${% /latex %}
+
+### The Dutch Book Argument
+The centrality of this argument is on beliefs that do not conform to the axioms. If a person holds two views that are exclusives, at a total probability of greater than 1, then they are being irrational, by violating axiom 3. For example, consider a coin toss. A person holds the following beliefs {% latex %}$P(heads) = 0.6$ and $ P(tails) = 0.6${% /latex %}. If taking a bet, of 1.5:1 they will lose $15 dollars for every $10 they gain. If a person(A Dutch Bookie) was offering a bet on this, the system the person holds is fully exploitable and losing. The subjectivist Beyesian is saying that so long as you do not violate the axioms, your subjective beliefs can be rational. They must also update their beliefs upon new evidence in accordance with bayes rule. So yesterdays posteriors become tomorrows priors {% latex %}$P_{i-1}(h|e) = P_{i}(h)${% /latex %}.
+
+### Some assessments of bayesianism
+There is some free choice then wehn picking a prior. Because there is nothing to inform you in the first place. This can lead to two people picking massively different priors. Person A can choose the priors: {% latex %}$P(h) = 0.999999$ and $P(\neg h) = 0.000001 ${% /latex %} while person B can choose the priors {% latex %}$P(h) = 0.000001$ and $P(\neg h) = 0.999999 ${% /latex %} If they continue to update their priors they will reach some convergence *_eventualy_*. But if one person chooses a massive prior probability and updates accordingly, then this is still acceptable. In the case where they do come to some agreement, there will still be some small degree of disagreement about some theory. There also exists a problem of inductive conclusions of priors. Goodmans riddle of induction would ask whether there is any difference between a person looking at all the eveidence and infering the moon is made of cheese and a person inferring it is composed of Silica an such. The Bayesian thinking wouldnt seem to argue there is a difference between either.  
+
+### elimination of alternatives
+There exists then this idea going forward about the role of confirmation in science. Whether you can eliminate alternative hypothesis, which is sometimes called eliminative induction. This is teh sort of reasoning that Sherlock Holmes does. You see how far an argument takes you only to rule it out, and finally to arrive at some only other alternative. John Platt argued for a modified Popperianview that would say taht science does this eliminative inference. This can have a deductive or nondeductive form. There may be less decicisve rulling out or alternatives though probabilities. 
+
+### Criticisms of Popper
+Poppers attempt to establish a criterion on demarcation is well critisised. Problems arise around the concept of measurement and observation. A universal statement may be rendered falsified by a specific statement. But how do we come to a conclusion about the statement? If we are measuring some effect, we must come to some decision on whether to accept that observance. We might have issues about an observance that falsifies a theory or a law. For example, there have at times been measurement errors when measuring light that have resulted in their being an example of matter travelling faster than light. There is of course no problem with this problem being overturned. But we still must come to a conclusion about the observances. Whether they will be accpeted as relevant or not. The test can always be blamed, and there is no reason to abandon a theory due to logic, even with surprising evidence. We then must come to some decision whether the observation is to be accepted or not. Scientific theories can be dealt with as if they werent scientific. It is the difference of decision that allows there to be some continuation of falsification. But we can take the decision to reject certain theories after they do not meet some criteria. But there is no logical reason for doing so.
+
+A prediction that something is unlikely is also no scientific, according to Popper's defintion. Because it does not state that something will not happen, but just that the probability is very low. The hypothesis that a coin is fair may be held, even after a million occurences of a head. This is the difference between falsification in practice and reality. Popper accepted that probability was not a constituent of a logically coherent theory of science. The consequence that you can back up falsification can occur without a deductive logic between observations and theories. An example of a bridge being built, with two theories of construction for the bridge. The first is old and tested, the other is new and untested. Neither are falsified. The problem comes from when we consider whether we shoudl choose one theory over the other. Godfrey-Smith takes it that Popper rejected the idea tha probability of this kind could play a role in scientific decisions about theories of this kind. That there is no reason why the untested one is any better than the tried and tested one. The ideas of Platt on strong inference are modifications of this idea of Poppers.
+
+### Risk and Science
+The idea of science being an endeavour or risk is praised. That we ought to be subjecting our theories to more and more risk. This is seen as the virtuous act. Theories can appear to have lots of contact with observation. But in reality it is pseudo contact. The question of how we deal with this exposure to new ideas however is still in need of more thought.
+
+
+
+{% /section  %}
