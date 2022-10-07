@@ -51,7 +51,7 @@ Some notes on books that I've read. I've these books with varying degrees of spe
 {% code %}Chaos{% /code %}
 {% code %}Charisma{% /code %}
 {% code %}Children{% /code %}
-{% code %}Christianity{% /code %}
+{% code %}[Christianity](ideas#christianity){% /code %}
 {% code %}Cities{% /code %}
 {% code %}Classification{% /code %}
 {% code %}Commodities{% /code %}
