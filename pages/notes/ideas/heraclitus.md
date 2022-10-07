@@ -4,7 +4,7 @@ description: A look at Karl Poppers view of Heraclitus
 ---
 
 {% section .hero %}
-# Karl on Heraclitus
+# Popper's Heraclitus
 Homer's understanding of nature was as if it were painted by artists who were antagonistic toward each other at times, with all different varying ideas about what nature ought to look like. Popper saw this as a fairer and more accurate understanding of history. Or perhaps the gods all represent the great men. Those exalted among us. 
 
 It’s a mystical epistemology that Popper finds issue with in Heraclitus. Even though Pythagoras would seem to know things, He was not learned. Maybe it's that we make a confusion and a jump when understanding, understanding. Feynman spoke about the difference between knowing the names of things and understanding something. This is different from the mystical sense of understanding. To understand is to know things through the lens of something mystical. You see how politics ought to be through your pre-ordained divine lens.
