@@ -162,8 +162,9 @@ export default function MyApp(props) {
         Skip to content
       </a>
       <TopNav>
-        <Link href="/drafts">Drafts</Link>
-        <Link href="/notes">Index Notes</Link>
+        <Link href="/notes">Index</Link>
+        <Link href="/notes">Ideas</Link>
+        <Link href="/notes">Books</Link>
         <Link href="/contact">Contact</Link>
       </TopNav>
       <div className="page">
