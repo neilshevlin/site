@@ -330,6 +330,14 @@ Some notes on books that I've read. I've these books with varying degrees of spe
 
 
 ## Book List
+[Logic - Paul Tomassi](/notes/books/COUuKSSn2){% .h2 %}
+
+{% code %}Logic{% /code %} {% code %}Mathematics{% /code %} {% code %}Philosophy{% /code %} {% code %}Analytical Philosophy{% /code %}
+
+[Geophysics for the Mineral Exploration Geoscientist - Denith & Mudge](/notes/books/COU0hzZn){% .h2 %}
+
+{% code %}Mineral Exploration{% /code %} {% code %}Geophysics{% /code %} {% code %}Magnetics{% /code %} {% code %}Fields{% /code %}
+
 [Against Method - Paul Feyerabend](/notes/books/COWDYId8){% .h2 %}
 
 {% code %}Philosophy{% /code %} {% code %}Philosophy of Science{% /code %} {% code %}Methodologies{% /code %} {% code %}Anarchism{% /code %}
