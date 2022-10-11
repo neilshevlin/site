@@ -4,23 +4,24 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Drafts',
+    title: 'Pages',
     links: [
-      { href: '/drafts/site-philosophy', children: 'Site Philosophy' },
-      { href: '/drafts/gpx-ilmenite', children: 'Geophysical exploration of ilmenite' },
-      { href: '/drafts', children: 'Full list' },
+      { href: '/notes/books', children: 'Books' },
+      { href: '/notes/ideas', children: 'Ideas' },
+      { href: '/notes/papers', children: 'Papers' },
+      { href: '/notes/other', children: 'Other Reading' },
+      { href: '/contact', children: 'Contact' },
+      { href: '/', children: 'Home Page' },
 
     ]
   },
   {
-    title: 'Index Notes',
+    title: 'Newer Stuff',
     links: [
-      { href: '/notes', children: 'Index' },
-      { href: '/notes/books', children: 'Books' },
-      { href: '/notes/authors', children: 'Authors' },
-      { href: '/notes/ideas', children: 'Ideas' },
-      { href: '/notes/papers', children: 'Papers' },
-      
+      { href: '/notes/books/COUi8UjB', children: 'Theory and Reality - Peter Godfrey-Smith' },
+      { href: '/notes/books/COUpZ8tL', children: 'What is this thing called science - Alan Chalmers' },
+      { href: '/notes/books/COWDYId8', children: 'Against Method - Paul Feyerabend' },
+      { href: '/notes/ideas/thesis-essay', children: 'Note taking, Rigour, and Editing' },
     ]
   },
 ];
