@@ -163,8 +163,8 @@ export default function MyApp(props) {
       </a>
       <TopNav>
         <Link href="/notes">Index</Link>
-        <Link href="/notes">Ideas</Link>
-        <Link href="/notes">Books</Link>
+        <Link href="/notes/ideas">Ideas</Link>
+        <Link href="/notes/books">Books</Link>
         <Link href="/contact">Contact</Link>
       </TopNav>
       <div className="page">
