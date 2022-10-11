@@ -35,6 +35,7 @@ Some notes on books that I've read. I've these books with varying degrees of spe
 {% code %}Autobiographies{% /code %}
 {% code %}Autocracy{% /code %}
 {% code %}Badges{% /code %}
+{% code %}Bayesianism{% /code %}
 {% code %}Being{% /code %}
 {% code %}Bias{% /code %}
 {% code %}Bishops{% /code %}
@@ -228,6 +229,7 @@ Some notes on books that I've read. I've these books with varying degrees of spe
 {% code %}Perseverance{% /code %}
 {% code %}Phase Transitions{% /code %}
 {% code %}Philosophy{% /code %}
+{% code %}Philosophy of Science{% /code %}
 {% code %}Physics{% /code %}
 {% code %}Pigs{% /code %}
 {% code %}Poetry{% /code %}
@@ -328,8 +330,31 @@ Some notes on books that I've read. I've these books with varying degrees of spe
 
 
 ## Book List
+[The Beginning of Infinity - David Deutsch](/notes/books/COUd9OPG){% .h2 %}
 
-The Open Society and it's Enemies - Karl Popper {% .h2 %}
+{% code %}Physics{% /code %} {% code %}Philosophy of Science{% /code %} {% code %}Popper{% /code %}
+
+[What is this thing called science - Alan Chalmers](/notes/books/COUpZ8tL){% .h2 %}
+
+{% code %}Philosophy{% /code %} {% code %}Philosophy of Science{% /code %} {% code %}Popper{% /code %}
+
+[Conjectures and refutations - Karl Popper](/notes/books/COUuLcq0){% .h2 %}
+
+{% code %}Sociology{% /code %} {% code %}Politics{% /code %} {% code %}Philosophy{% /code %} {% code %}Democracy{% /code %}
+
+[Numerical methods for engineers and scientists - Amos Gilat](/notes/books/COVYGNM5){% .h2 %}
+
+{% code %}Mathematics{% /code %} {% code %}Computation{% /code %} {% code %}Science{% /code %} {% code %}Engineering{% /code %}
+
+[The Protestant Ethic and the Spirit of Capitalism - Max Weber](/notes/books/COUuLU41){% .h2 %}
+
+{% code %}Religion{% /code %} {% code %}Economics{% /code %} {% code %}Christianity{% /code %} {% code %}Protestantism{% /code %} {% code %}Catholicism{% /code %}
+
+[Theory and Reality - Peter Godfrey Smith](/notes/books/COUi8UjB){% .h2 %}
+
+{% code %}Analytical Philosophy{% /code %} {% code %}Philosophy of Science{% /code %}{% code %}Bayesianism{% /code %}{% code %}Popper{% /code %}
+
+[The Open Society and it's Enemies - Karl Popper](/notes/books/COUuMr1o) {% .h2 %}
 
 {% code %}Sociology{% /code %} {% code %}Politics{% /code %} {% code %}Philosophy{% /code %} {% code %}Democracy{% /code %}
 
