@@ -330,6 +330,10 @@ Some notes on books that I've read. I've these books with varying degrees of spe
 
 
 ## Book List
+[Against Method - Paul Feyerabend](/notes/books/COWDYId8){% .h2 %}
+
+{% code %}Philosophy{% /code %} {% code %}Philosophy of Science{% /code %} {% code %}Methodologies{% /code %} {% code %}Anarchism{% /code %}
+
 [The Beginning of Infinity - David Deutsch](/notes/books/COUd9OPG){% .h2 %}
 
 {% code %}Physics{% /code %} {% code %}Philosophy of Science{% /code %} {% code %}Popper{% /code %}
