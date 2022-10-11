@@ -16,7 +16,6 @@ export { default as example } from './markdoc-example.markdoc';
 export { default as sandbox } from './sandbox.markdoc';
 export { default as section } from './section.markdoc';
 module.exports['side-by-side'] = sideBySide;
-export { default as typewriter } from './typewriter.markdoc';
 export { default as youtube } from './youtube.markdoc';
 export { default as pythonsandbox} from './pythonsandbox.markdoc';
 export { default as datatable } from './datatable.markdoc';
