@@ -1,5 +1,5 @@
 ---
-title: Space Settlements: A Design Study
+title: Space Settlements- A Design Study
 description: A paper on space settlements
 ---
 {% section .hero %}
