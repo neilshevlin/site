@@ -32,7 +32,7 @@ Notes that I've written that don't reference a specific book, and instead focus 
 Notes on papers, technical or otherwise. These could be papers on AI or neuroscience. Again, it serves the purpose of centralisation and documentation of things that I've read. Hopefully it gives me help in the future and can be referenced by some of the idea notes or something longer form.
 
 [Other Miscellaneous Readings ](/notes/other){%  .h3  %}
-Links and articles that I might come across. Might be useful at some further date. This to me is a decent way of keeping track of things I've read. Plus it gets links in to a place where others can explore if they come across anything. 
+Links and articles that I might come across. Might be useful at some further date. This to me is a decent way of keeping track of things I've read. Plus it gets links in to a place where others can explore if they come across anything.
 ## Software used to create this site
 While perhaps not a wise decision in the long term, this site is built with [React](https://reactjs.org) and [Next.js](https://nextjs.org/). The site also makes use of markdown and specifically [Markdoc](https://markdoc.io). I typically use [Notion](https://www.notion.so) or [Obsidian](https://obsidian.md/) to write my notes. The advantage of this method is that both allow exports to markdown. I have a script to push these markdown files notion/obsidian to the git repository and then push them to my [Gitlab](https://gitlab.com/) account. Here they run through a quick pipeline to deploy and then to the live site.
  
