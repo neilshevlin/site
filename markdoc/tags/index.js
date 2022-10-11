@@ -20,3 +20,5 @@ export { default as typewriter } from './typewriter.markdoc';
 export { default as youtube } from './youtube.markdoc';
 export { default as pythonsandbox} from './pythonsandbox.markdoc';
 export { default as datatable } from './datatable.markdoc';
+export { default as latex } from './latex.markdoc';
+export { default as quote } from './quote.markdoc';
