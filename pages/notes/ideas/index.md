@@ -73,7 +73,36 @@ description: Notes on Ideas
 
 {% /item %}
 {% item %}
+## Housing
 
+- [Rent now, buy later](/notes/ideas/rent-now-buy-later)
+
+{% /item %}
+{% /side-by-side %}
+
+{% side-by-side %}
+{% item %}
+## This site
+- [Ideas for this site](/notes/ideas/site-ideas)
+
+{% /item %}
+{% item %}
+## Deep learning
+- [Simple classifiers with fast ai](/notes/ideas/AI/simple-classifiers-fast)
+- [Downloading datsets with fast ai](/notes/ideas/AI/downloading-datasets-fast)
+
+{% /item %}
+{% /side-by-side %}
+
+{% side-by-side %}
+{% item %}
+## Geothermal
+- [Medium Enthalpy Geothermal](/notes/ideas/medium-enthalpy-geothermal)
+
+{% /item %}
+{% item %}
+## Mineral Exploration
+- [Mineral Exploration Introduction](/notes/ideas/minex-intro)
 
 {% /item %}
 {% /side-by-side %}
