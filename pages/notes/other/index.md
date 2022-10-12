@@ -7,6 +7,12 @@ description: A collection of articles and writings
 # Other
 A splattering of articles and readings. 
 
+## AI 
+[AI Language Models Are Struggling to “Get” Math](https://spectrum.ieee.org/large-language-models-math)
+
+
+[Minerva: Solving Quantitative Reasoning Problems with Language Models](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
+
 ## Chemistry
 [2020 Nobel Prize in Chemistry Awarded for CRISPR to Charpentier and Doudna | Quanta Magazine](https://www.quantamagazine.org/2020-nobel-prize-in-chemistry-awarded-for-crispr-to-charpentier-and-doudna-20201007/)
 
