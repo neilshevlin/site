@@ -21,7 +21,7 @@ const items = [
       { href: '/notes/books/COUi8UjB', children: 'Theory and Reality - Peter Godfrey-Smith' },
       { href: '/notes/books/COUpZ8tL', children: 'What is this thing called science - Alan Chalmers' },
       { href: '/notes/books/COWDYId8', children: 'Against Method - Paul Feyerabend' },
-      { href: '/notes/ideas/thesis-essay', children: 'Note taking, Rigour, and Editing' },
+      { href: '/notes/ideas/pure-math', children: 'Russells defintion of pure math' },
     ]
   },
 ];

@@ -107,4 +107,12 @@ description: Notes on Ideas
 {% /item %}
 {% /side-by-side %}
 
+{% side-by-side %}
+{% item %}
+## Logic of Mathematics
+- [Russell's defintion of mathematics](/notes/ideas/pure-math)
+
+{% /item %}
+{% /side-by-side %}
+
 {% /section %}

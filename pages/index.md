@@ -20,9 +20,8 @@ description: The entry page for the site
 {% item %}
 [Idea Notes](/notes/ideas){%  .h2  %}
 - [Note taking rigour and editing](/notes/ideas/thesis-essay){%  .h3  %}
-- [Submarine Mechanics](/notes/ideas/submarine-mechanics){%  .h3  %}
+- [Russells defintion of Pure Math](/notes/ideas/pure-math){%  .h3  %}
 - [Evangelisation in Opus Dei](/notes/ideas/opus-dei-evangelisation){%  .h3  %}
-- [Brief Notes on the foundation of Australia](/notes/ideas/australia-foundation){%  .h3  %}
 
 {% /item %}
 {% /side-by-side %}
