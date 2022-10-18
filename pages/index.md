@@ -13,7 +13,7 @@ description: The entry page for the site
 [Book Notes](/notes/books){%  .h2  %}
 
 - [How to write a thesis - Umberto Eco](/notes/books/COUlEuCc){%  .h3  %}
-- [Theory and Reality - Peter Godfrey Smith](/notes/books/COUlEuCc){%  .h3  %}
+- [Theory and Reality - Peter Godfrey Smith](/notes/books/COUi8UjB){%  .h3  %}
 - [Introduction to mineral exploration - Charles J Moon](notes/books/COVpLVtX){%  .h3  %}
 - [The Open Society and Its Enemies - Karl Popper](notes/books/COUuMr1o){%  .h3  %}
 {% /item %}
