@@ -21,7 +21,8 @@ description: The entry page for the site
 [Idea Notes](/notes/ideas){%  .h2  %}
 - [Note taking rigour and editing](/notes/ideas/thesis-essay){%  .h3  %}
 - [Russells defintion of Pure Math](/notes/ideas/pure-math){%  .h3  %}
-- [Evangelisation in Opus Dei](/notes/ideas/opus-dei-evangelisation){%  .h3  %}
+- [Medium Enthalpy Geothermal](/notes/ideas/medium-enthalpy-geothermal){%  .h3  %}
+- [Live now, buy later](/notes/ideas/rent-now-buy-later){%  .h3  %}
 
 {% /item %}
 {% /side-by-side %}
